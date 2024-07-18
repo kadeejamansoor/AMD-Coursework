@@ -52,4 +52,8 @@ Join our community of developers creating universal apps.
 =======
 # AMD-Coursework
 React Clone app
->>>>>>> 9e13c9cfb9d0e7b9578f5a04ec96183e83294528
+========
+Screen Shots.....
+
+
+>>>>>>> if you have any Issues about this project contact me : kadeejamansoor98@gmail.com
